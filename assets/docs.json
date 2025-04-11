@@ -1,7 +1,38 @@
 [
     {
+      "name": "RePaint",
+      "file": "_RePaint.pdf"
+    },
+    {
+      "name": "AOT-GAN-for-Inpainting",
+      "file": "AOT-GAN-for-Inpainting.pdf"
+    },
+    {
+      "name": "Bagged-DIP-Speckle",
+      "file": "Bagged-DIP-Speckle.pdf"
+    },
+    {
+      "name": "Image Inpainting for Irregular Holes Using Partial Convolutions",
+      "file": "Image Inpainting for Irregular Holes Using Partial Convolutions.pdf"
+    },
+    {
+      "name": "LAmA",
+      "file": "LAmA.pdf"
+    },
+    {
+      "name": "Pytorch inpainting with partial conv",
+      "file": "Pytorch inpainting with partial conv.pdf"
+    },
+    {
+      "name": "Resshift",
+      "file": "Resshift.pdf"
+    },
+    {
+      "name": "The RePAIR project",
+      "file": "The RePAIR project.pdf"
+    },
+    {
       "name": "Réseau de neurones",
-      "file": "Reseau_de_neurones.pdf"
+      "file": "Réseau de neurones.pdf"
     }
-  ]
-  
+  ]  
