@@ -30,7 +30,8 @@ WebsiteOfResearch/
 ```json
 {
   "name": "Nom du document",
-  "file": "Nom_du_fichier.pdf"
+  "file": "Nom_du_fichier.pdf",
+  "author":"Nom de l'auteur"
 }
 ```
 
