@@ -1,38 +1,47 @@
 [
     {
       "name": "RePaint",
-      "file": "RePaint.pdf"
+      "file": "RePaint.pdf",
+      "author": "NotCrymy"
     },
     {
       "name": "AOT-GAN-for-Inpainting",
-      "file": "AOT-GAN-for-Inpainting.pdf"
+      "file": "AOT-GAN-for-Inpainting.pdf",
+      "author": "NotCrymy"
     },
     {
       "name": "Bagged-DIP-Speckle",
-      "file": "Bagged-DIP-Speckle.pdf"
+      "file": "Bagged-DIP-Speckle.pdf",
+      "author":"NotCrymy"
     },
     {
       "name": "Image Inpainting for Irregular Holes Using Partial Convolutions",
-      "file": "Image Inpainting for Irregular Holes Using Partial Convolutions.pdf"
+      "file": "Image Inpainting for Irregular Holes Using Partial Convolutions.pdf",
+      "author":"LeGrandUndead"
     },
     {
       "name": "LAmA",
-      "file": "LAmA.pdf"
+      "file": "LAmA.pdf",
+      "author":"NotCrymy"
     },
     {
       "name": "Pytorch inpainting with partial conv",
-      "file": "Pytorch inpainting with partial conv.pdf"
+      "file": "Pytorch inpainting with partial conv.pdf",
+      "author":"LeGrandUndead"
     },
     {
       "name": "Resshift",
-      "file": "Resshift.pdf"
+      "file": "Resshift.pdf",
+      "author":"LeGrandUndead"
     },
     {
       "name": "The RePAIR project",
-      "file": "The RePAIR project.pdf"
+      "file": "The RePAIR project.pdf",
+      "author":"LeGrandUndead"
     },
     {
       "name": "Réseau de neurones",
-      "file": "Réseau de neurones.pdf"
+      "file": "Réseau de neurones.pdf",
+      "author":"NotCrymy"
     }
   ]  
