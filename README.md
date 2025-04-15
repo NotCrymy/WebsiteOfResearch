@@ -31,7 +31,7 @@ WebsiteOfResearch/
 {
   "name": "Nom du document",
   "file": "Nom_du_fichier.pdf",
-  "author":"Nom de l'auteur"
+  "author": "Nom de l'auteur"
 }
 ```
 
