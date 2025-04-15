@@ -48,5 +48,10 @@
       "name": "DiffPIR",
       "file": "DiffPIR.pdf",
       "author":"NotCrymy"
+    },
+    {
+      "name": "FcF-Inpainting",
+      "file": "FcF-Inpainting.pdf",
+      "author":"NotCrymy"
     }
   ]  
