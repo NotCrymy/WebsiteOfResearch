@@ -53,5 +53,10 @@
       "name": "FcF-Inpainting",
       "file": "FcF-Inpainting.pdf",
       "author":"NotCrymy"
+    },
+    {
+      "name": "NAS-DIP-pytorch",
+      "file": "NAS-DIP-pytorch.pdf",
+      "author":"LeGrandUndead"
     }
   ]  
