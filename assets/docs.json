@@ -58,5 +58,10 @@
       "name": "NAS-DIP-pytorch",
       "file": "NAS-DIP-pytorch.pdf",
       "author":"LeGrandUndead"
+    },
+    {
+      "name": "mural-image-inpainting",
+      "file": "mural-image-inpainting.pdf",
+      "author":"NotCrymy"
     }
   ]  
