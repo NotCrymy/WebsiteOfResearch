@@ -63,5 +63,10 @@
       "name": "mural-image-inpainting",
       "file": "mural-image-inpainting.pdf",
       "author":"NotCrymy"
+    },
+    {
+      "name": "Segment-Anything-Model",
+      "file": "Segment_Anything_Model_1_et_2.pdf",
+      "author":"NotCrymy"
     }
   ]  
